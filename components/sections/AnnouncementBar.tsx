@@ -10,17 +10,9 @@ const HIGHLIGHTS = new Set([
 const items = [
   'goline.life raises $6M Seed Round',
   '·',
-  'Backed by Sequoia Capital US',
-  '·',
-  'Y Combinator',
-  '·',
-  'Andreessen Horowitz',
-  '·',
   'Accepted into Google for Startups Program',
   '·',
   'Awarded Google Cloud Credits',
-  '·',
-  'Join 10,000+ builders on the waitlist',
   '·',
 ];
 
