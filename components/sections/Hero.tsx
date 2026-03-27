@@ -54,7 +54,7 @@ export default function Hero() {
                 The Web Is&nbsp;
                 <span className="gradient-text">Becoming</span>
                 <br />
-                <span style={{ position: 'relative', display: 'inline-block', height: '1.1em', overflow: 'hidden', minWidth: '6ch' }}>
+                <span style={{ position: 'relative', display: 'inline-block', height: '1.1em', overflow: 'hidden', minWidth: '14ch' }}>
                   {words.map((word, i) => (
                     <motion.span
                       key={word}
