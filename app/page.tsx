@@ -1,5 +1,3 @@
-export const runtime = 'edge';
-
 import AnnouncementBar from '@/components/sections/AnnouncementBar';
 import Navbar from '@/components/sections/Navbar';
 import Hero from '@/components/sections/Hero';
